@@ -1,0 +1,69 @@
+body {
+  background-image: url(background.png);
+  background-position: center;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  border: 5px solid black;
+  border-radius: 30px;
+}
+
+ header{
+   text-align: center;
+ }
+
+h1{
+  color: lime;
+  font-size: 30px;
+}
+
+nav{
+  text-align: center;
+  width: 60%;
+  height: 20%
+  border: 2px solid black;
+  border-radius: 30px;
+  background-color: lime;
+  font-size: 40%;
+  padding: 10px;
+}
+
+section>span{
+  font-size: 130%;
+}
+
+#primaopzione{
+  color: white;
+  border: 1px solid orange;
+  border-radius: 10px;
+  background-color: orange;
+  width: 30%;
+  height: 20%;
+  text-align: justify;
+
+}
+
+#secondaopzione{
+  color: white;
+  border: 1px solid green;
+  border-radius: 10px;
+  background-color: green;
+  width: 45%;
+  height: 20%;
+}
+
+#terzaopzione{
+  color: white;
+  border: 1px solid red;
+  border-radius: 10px;
+  background-color: red;
+  width: 20%;
+  height: 20%;}
+
+  hr{
+    border-color: black;
+  }
+
+  footer{
+    text-align: center;
+    text-decoration: underline;
+  }
